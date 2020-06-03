@@ -1,0 +1,28 @@
+{
+    "root": "C:/Users/serga/Documents/GitHub/DS-Unit-4-Sprint-3-Deep-Learning",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/JeanFraga/DS-Unit-4-Sprint-3-Deep-Learning.git",
+        "commit": "7e45193007dead0fb91bb994c9fc997b1db500ae"
+    },
+    "email": "JeanFraga@users.noreply.github.com",
+    "startedAt": "2019-12-18T17:47:16.046854",
+    "host": "Jeani7",
+    "username": "serga",
+    "executable": "C:\\ProgramData\\Anaconda3\\envs\\U4-S3-deep-learning\\python.exe",
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.7.0",
+    "gpu": "GeForce RTX 2080 Ti",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "args": [
+        "-f",
+        "C:\\Users\\serga\\AppData\\Roaming\\jupyter\\runtime\\kernel-2415ec5a-d40f-4ccb-a760-39f9d9613eeb.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "hearty-frog-45",
+    "project": "mnist_autoencoder",
+    "heartbeatAt": "2019-12-18T17:53:39.681428"
+}
